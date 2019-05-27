@@ -1,5 +1,5 @@
 # ReactJS_5_27
 Created with CodeSandbox
 
-### *:arrow_down_small: Requirements* 
-![requirements](https://cherylhughey.github.io/img/requirements3.jpg)
+## Screenshot
+![screenshot](https://github.com/cherylhughey/ReactJS_5_27/blob/master/sample2.png)
